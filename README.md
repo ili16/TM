@@ -1,2 +1,3 @@
 # TM
-A turing machine written in Go
+
+A Turing machine written in Go
